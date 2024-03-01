@@ -1,9 +1,9 @@
 <h1>Hi, I'm Sheng</h1>
 
-<h2>⭐Welcome to my GitHub profile. I'm passionate about coding and technology. Here's a glimpse of who I am and what I love to do.</h2>
+<h2>This is my Github profile.</h2>
 
-<h2>Stuffs I code with</h2>
-<p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -28,14 +28,13 @@
 </p>
 
 
-<h2>Github stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zthinhddo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600" alt="GitHub Streak" /></a>
+<h2>⚡Github stats⚡</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zthinhddo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600" alt="GitHub Streak" /></a>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=zthinhddo&hide=HTML&langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
-
-
-<h2>Hobbies</h2>
-
-<p>Apart from coding, I enjoy</p>
+<h2>💫 Hobbies 💫</h2>
 <ul>
   <li>🎮 Games</li>
   <li>📚 Reading books</li>
